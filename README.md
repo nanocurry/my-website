@@ -1,5 +1,6 @@
 # my-website
 放送大学 面接授業「Githubによるウェブ開発」で作成している自己紹介サイトです。
+![CI](https://github.com/nanocurry/my-website/actions/workflows/ci.yml/badge.svg)
 
 ## 内容
 - index.html : 自己紹介ページ
