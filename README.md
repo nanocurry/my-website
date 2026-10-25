@@ -7,4 +7,4 @@
 - style.css : 見た目の設定
 
 ## 公開URL
-（第7回で記入します）
+https://nanocurry.github.io/my-website/
